@@ -7,3 +7,4 @@
 	4. Save Ironman
 	5. Closest Palindrome
 	6. Check Array Contains Contigous Integer
+	7. Pairs with Positive and Negative Values
