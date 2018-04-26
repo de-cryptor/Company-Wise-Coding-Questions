@@ -10,3 +10,4 @@
 	7. Pairs with Positive and Negative Values
 	8. Maximum Tip Calculator
 	9. Prime Number of Set Bits
+	10. Reverse Each Word in String
