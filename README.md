@@ -6,3 +6,4 @@
 	3. Digit Count [How many X's]
 	4. Save Ironman
 	5. Closest Palindrome
+	6. Check Array Contains Contigous Integer
