@@ -12,3 +12,4 @@
 	9. Prime Number of Set Bits
 	10. Reverse Each Word in String
 	11. Find k-th character in string
+	12. Star Elements
