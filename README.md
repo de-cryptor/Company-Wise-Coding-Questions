@@ -21,3 +21,4 @@
 	18. Find Pair such that [ a+b = c+d ]
 	19. Group Anagrams Together
 	20. Game With Strings
+	21. Extract Maximum
