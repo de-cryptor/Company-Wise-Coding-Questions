@@ -18,3 +18,4 @@
 	15. First and Last Occurances in Sorted Array
 	16. Number of Groups
 	17. Count the Elements
+	18. Find Pair such that [ a+b = c+d ]
