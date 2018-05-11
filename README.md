@@ -26,3 +26,4 @@
 	23. Smallest Positive Missing Number
 	24. Maximum Money
 	25. Fill Array with 1's
+	26. Longest Palindromic Subsequence
