@@ -23,3 +23,4 @@
 	20. Game With Strings
 	21. Extract Maximum
 	22. Element with left side smaller and right side greater
+	23. Smallest Positive Missing Number
