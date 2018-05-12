@@ -36,3 +36,4 @@
 	33. Stepping Numbers
 	34. First Non-Repeating Character in stream
 	35. Unique Numbers
+	36. Rearrange Characters
