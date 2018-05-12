@@ -38,3 +38,4 @@
 	35. Unique Numbers
 	36. Rearrange Characters
 	37. Game of XOR
+	38. Type of Array
