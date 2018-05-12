@@ -35,3 +35,4 @@
 	32. Equal Point in String of Brackets
 	33. Stepping Numbers
 	34. First Non-Repeating Character in stream
+	35. Unique Numbers
