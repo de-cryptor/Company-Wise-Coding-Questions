@@ -32,3 +32,4 @@
 	29. Geek and Coffee Shop
 	30. Number with Same First and Last Digit
 	31. Find All pairs with Given Sum
+	32. Equal Point in String of Brackets
