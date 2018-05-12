@@ -37,3 +37,4 @@
 	34. First Non-Repeating Character in stream
 	35. Unique Numbers
 	36. Rearrange Characters
+	37. Game of XOR
