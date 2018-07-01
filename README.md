@@ -49,3 +49,4 @@
 	4. Stock Buy and Sell
 	5. Search in a Matrix
 	6. Excel Sheet Title 
+	7. Transform String to Another
