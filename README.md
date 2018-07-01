@@ -47,3 +47,4 @@
 	2. Maximum of all subarrays of size k
 	3. Jumping Number
 	4. Stock Buy and Sell
+	5. Search in a Matrix
