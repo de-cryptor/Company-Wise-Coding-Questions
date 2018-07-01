@@ -41,3 +41,6 @@
 	38. Type of Array
 	39. First and Last Occurance of x
 	40. Find Whether Path Exists
+
+### Direct-I
+	1. Array Pair Sum Divisibility Problem
