@@ -45,3 +45,4 @@
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
 	2. Maximum of all subarrays of size k
+	3. Jumping Number
