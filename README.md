@@ -61,3 +61,4 @@
 	7. Key Pair
 	8. Maximum of all subarrays of size k
 	9. N meetings in one room
+	10. Gold Mine Problem
