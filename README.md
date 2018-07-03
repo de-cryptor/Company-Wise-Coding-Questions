@@ -57,3 +57,4 @@
 	3. First non-repeating character in a stream
 	4. Snake and Ladder Problem
 	5. Chocolate Distribution Problem
+	6. 0-1 Knapsack Problem
