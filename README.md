@@ -54,3 +54,4 @@
 ### Flipkart 
 	1. Print Bracket Number
 	2. Kth Element of two Sorted Array
+	3. First non-repeating character in a stream
