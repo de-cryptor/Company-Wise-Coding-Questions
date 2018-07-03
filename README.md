@@ -59,3 +59,4 @@
 	5. Chocolate Distribution Problem
 	6. 0-1 Knapsack Problem
 	7. Key Pair
+	8. Maximum of all subarrays of size k
