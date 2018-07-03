@@ -50,3 +50,6 @@
 	5. Search in a Matrix
 	6. Excel Sheet Title 
 	7. Transform String to Another
+
+### Flipkart 
+	1. Print Bracket Number
