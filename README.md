@@ -73,6 +73,7 @@
 	9. Palindrome Numbers [Binary Representation]
 	10. RegEx Matching
 	11. Length of largest region of 1's
+	12. Find all four sum numbers
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
