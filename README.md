@@ -75,6 +75,7 @@
 	5. Search in a Matrix
 	6. Excel Sheet Title 
 	7. Transform String to Another
+	8. Shortest path from 1 to n
 
 ### Flipkart 
 	1. Print Bracket Number
