@@ -41,6 +41,7 @@
 	38. Type of Array
 	39. First and Last Occurance of x
 	40. Find Whether Path Exists
+	41. Total Number of Strings
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
