@@ -59,6 +59,7 @@
 	3. Unique Subsets
 	4. Ease the Array
 	5. M Coloring Problem
+	6. Count Occurences of Anagrams
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
