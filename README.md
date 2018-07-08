@@ -43,6 +43,7 @@
 	40. Find Whether Path Exists
 	41. Total Number of Strings
 	42. Minimum Cost of Ropes
+	43. Sum of Query II
 
 
 ### Direct-I
