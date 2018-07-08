@@ -62,6 +62,7 @@
 	6. Count Occurences of Anagrams
 	7. Longest Distinct characters in string
 	8. Print Pattern Without Loop
+	9. Palindrome Numbers [Binary Representation]
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
