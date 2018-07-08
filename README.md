@@ -115,3 +115,4 @@
 	1. Longest Consecutive Subsequence
 	2. Find the highest occurring digit in prime numbers in a range
 	3. Count all possible paths from top left to bottom right
+	4. Two Prime Numbers Sum Equal to X
