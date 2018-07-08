@@ -6,6 +6,7 @@
 	There is no shortcut to success. 
 */
 #include <bits/stdc++.h>
+
 using namespace std;
 #define  LL long long
 #define F first
