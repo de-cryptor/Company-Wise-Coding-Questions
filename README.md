@@ -65,6 +65,7 @@
 	8. Maximum of all subarrays of size k
 	9. N meetings in one room
 	10. Gold Mine Problem
+	11. Doubling the Value
 
 ### Morgan Stanley
 	1. Minimum Distinct Ids
