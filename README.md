@@ -80,6 +80,7 @@
 
 ### Goldman Sachs
 	1. Second Most Repeated String
+	2. Numbers containing 1, 2 and 3 Only
 
 ### Walmart Labs
 	1. Longest Consecutive Subsequence
