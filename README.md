@@ -74,5 +74,8 @@
 	1. Minimum Distinct Ids
 	2. Largest Even Number Using Max One Swap
 
-## Goldman Sachs
+### Goldman Sachs
 	1. Second Most Repeated String
+
+### Walmart Labs
+	1. Longest Consecutive Subsequence
