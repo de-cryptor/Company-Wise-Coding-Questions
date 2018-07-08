@@ -58,6 +58,7 @@
 	2. Merge two Sorted Array Decreasing Order
 	3. Unique Subsets
 	4. Ease the Array
+	5. M Coloring Problem
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
