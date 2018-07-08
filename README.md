@@ -60,6 +60,7 @@
 	57. Betting Game
 	58. Maximum of j - i subjected to the constraint of A[i] <= A[j]
 	59. Overlapping intervals
+	60. Sum of two numbers represented as arrays
 
 ### Microsoft
 	1. Combination Sum
