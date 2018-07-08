@@ -65,3 +65,4 @@
 
 ### Morgan Stanley
 	1. Minimum Distinct Ids
+	2. Largest Even Number Using Max One Swap
