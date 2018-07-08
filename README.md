@@ -42,6 +42,7 @@
 	39. First and Last Occurance of x
 	40. Find Whether Path Exists
 	41. Total Number of Strings
+	42. Minimum Cost of Ropes
 
 
 ### Direct-I
