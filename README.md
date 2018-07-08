@@ -58,6 +58,7 @@
 	55. Is Sudoku Valid
 	56. Maximize No. of Ones by Flipping at most M Zeros
 	57. Betting Game
+	58. Maximum of j - i subjected to the constraint of A[i] <= A[j]
 
 ### Microsoft
 	1. Combination Sum
