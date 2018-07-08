@@ -43,6 +43,7 @@
 	40. Find Whether Path Exists
 	41. Total Number of Strings
 
+
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
 	2. Maximum of all subarrays of size k
@@ -67,3 +68,6 @@
 ### Morgan Stanley
 	1. Minimum Distinct Ids
 	2. Largest Even Number Using Max One Swap
+
+## Goldman Sachs
+	1. Second Most Repeated String
