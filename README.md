@@ -65,6 +65,7 @@
 	7. Longest Distinct characters in string
 	8. Print Pattern Without Loop
 	9. Palindrome Numbers [Binary Representation]
+	10. RegEx Matching
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
