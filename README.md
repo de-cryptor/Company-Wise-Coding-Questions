@@ -51,6 +51,7 @@
 	48. String Twice Counter
 	49. Keypad Typing
 	50. Generate Binary Numbers
+	51. Palindromic Array
 
 ### Microsoft
 	1. Combination Sum
