@@ -83,3 +83,4 @@
 
 ### Walmart Labs
 	1. Longest Consecutive Subsequence
+	2. Find the highest occurring digit in prime numbers in a range
