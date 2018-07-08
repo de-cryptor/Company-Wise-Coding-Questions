@@ -45,6 +45,7 @@
 	42. Minimum Cost of Ropes
 	43. Sum of Query II
 	44. Count ways to reach the n’th stair
+	45. Length of the longest substring without repeating characters.
 
 
 ### Direct-I
