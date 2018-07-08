@@ -47,6 +47,7 @@
 	44. Count ways to reach the n’th stair
 	45. Length of the longest substring without repeating characters.
 	46. Count triplets with sum smaller than X
+	47. Maximum of minimum for every window size
 
 
 ### Direct-I
