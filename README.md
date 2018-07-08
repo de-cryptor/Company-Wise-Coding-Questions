@@ -75,6 +75,7 @@
 	10. RegEx Matching
 	11. Length of largest region of 1's
 	12. Find all four sum numbers
+	13. Phone Directory Suggestion
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
