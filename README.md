@@ -55,6 +55,7 @@
 	52. Count ways to N'th Stair(Order does not matter)
 	53. Rotate Array by n elements
 	54. Maximum Sum Rectangle
+	55. Is Sudoku Valid
 
 ### Microsoft
 	1. Combination Sum
