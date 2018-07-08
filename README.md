@@ -44,6 +44,7 @@
 	41. Total Number of Strings
 	42. Minimum Cost of Ropes
 	43. Sum of Query II
+	44. Count ways to reach the n’th stair
 
 
 ### Direct-I
