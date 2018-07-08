@@ -60,6 +60,7 @@
 	4. Ease the Array
 	5. M Coloring Problem
 	6. Count Occurences of Anagrams
+	7. Longest Distinct characters in string
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
