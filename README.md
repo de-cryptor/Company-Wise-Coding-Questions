@@ -68,6 +68,7 @@
 	8. Print Pattern Without Loop
 	9. Palindrome Numbers [Binary Representation]
 	10. RegEx Matching
+	11. Length of largest region of 1's
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
