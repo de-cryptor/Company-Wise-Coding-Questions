@@ -57,6 +57,7 @@
 	54. Maximum Sum Rectangle
 	55. Is Sudoku Valid
 	56. Maximize No. of Ones by Flipping at most M Zeros
+	57. Betting Game
 
 ### Microsoft
 	1. Combination Sum
