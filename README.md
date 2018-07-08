@@ -56,6 +56,7 @@
 	53. Rotate Array by n elements
 	54. Maximum Sum Rectangle
 	55. Is Sudoku Valid
+	56. Maximize No. of Ones by Flipping at most M Zeros
 
 ### Microsoft
 	1. Combination Sum
