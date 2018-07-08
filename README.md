@@ -52,6 +52,7 @@
 ### Microsoft
 	1. Combination Sum
 	2. Merge two Sorted Array Decreasing Order
+	3. Unique Subsets
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
