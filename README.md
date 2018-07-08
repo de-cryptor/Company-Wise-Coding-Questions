@@ -49,6 +49,8 @@
 	46. Count triplets with sum smaller than X
 	47. Maximum of minimum for every window size
 
+### Microsoft
+	1. Combination Sum
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
