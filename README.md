@@ -84,6 +84,7 @@
 	2. Numbers containing 1, 2 and 3 Only
 	3. Repeated Character present first in string
 	4. Wave Array
+	5. Total Decoding Messages
 
 ### Walmart Labs
 	1. Longest Consecutive Subsequence
