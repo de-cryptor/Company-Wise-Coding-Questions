@@ -78,6 +78,7 @@
 	13. Phone Directory Suggestion
 	14. Boolean String Value
 	15. Difficulty of sentence
+	16. Valid Tic-Tac-Toe
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
