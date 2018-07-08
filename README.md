@@ -49,6 +49,7 @@
 	46. Count triplets with sum smaller than X
 	47. Maximum of minimum for every window size
 	48. String Twice Counter
+	49. Keypad Typing
 
 ### Microsoft
 	1. Combination Sum
