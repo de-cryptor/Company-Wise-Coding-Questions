@@ -57,6 +57,7 @@
 	1. Combination Sum
 	2. Merge two Sorted Array Decreasing Order
 	3. Unique Subsets
+	4. Ease the Array
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
