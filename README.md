@@ -53,6 +53,7 @@
 	50. Generate Binary Numbers
 	51. Palindromic Array
 	52. Count ways to N'th Stair(Order does not matter)
+	53. Rotate Array by n elements
 
 ### Microsoft
 	1. Combination Sum
