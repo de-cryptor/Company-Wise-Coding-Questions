@@ -77,6 +77,7 @@
 	12. Find all four sum numbers
 	13. Phone Directory Suggestion
 	14. Boolean String Value
+	15. Difficulty of sentence
 
 ### Direct-I
 	1. Array Pair Sum Divisibility Problem
