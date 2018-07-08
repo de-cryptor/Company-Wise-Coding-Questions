@@ -82,6 +82,7 @@
 	1. Second Most Repeated String
 	2. Numbers containing 1, 2 and 3 Only
 	3. Repeated Character present first in string
+	4. Wave Array
 
 ### Walmart Labs
 	1. Longest Consecutive Subsequence
